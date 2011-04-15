@@ -1,0 +1,3 @@
+This is the gtk2 framework aimed to be used by ruby 1.9 (1.9.1, 1.9.2) applications.
+It's being built using the bridge ruby-ffi (foreign function interface) and it's in its infancy. However, it's being proved to be useful as being matured for it's possible to build simple graphical applications using Gtk+ with the library as it is.
+As a roadmap to the functionalities added I am following the book Foundations of GTK+ Development, by Andrew Krause, Apress Books.
